@@ -1,0 +1,1 @@
+This is second Git test file we used for development.
